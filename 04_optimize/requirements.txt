@@ -7,3 +7,4 @@ torchnet
 transformers==4.21.0
 smdebug
 humanize
+einops

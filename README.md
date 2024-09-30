@@ -11,4 +11,4 @@ This repo is adapted from the official [Generative AI on AWS repo]([https://gith
 - In order to make it easy to complete labs and work on your project, it is highly reccomended that you follow the below process twice, once for a `lab` user and once for a `project` user (be sure you are saving your work from the `project` user in your own GitHub repository.
 
 # Setup Instructions
-Please follow the setup guide from the `labs repo [here](https://github.com/MADS508/labs/blob/main/README.md)
+Please follow the setup guide from the `labs` repo [here](https://github.com/MADS508/labs/blob/main/README.md)

@@ -12,3 +12,22 @@ This repo is adapted from the official [Generative AI on AWS repo]([https://gith
 
 # Setup Instructions
 Please follow the setup guide from the `labs` repo [here](https://github.com/MADS508/labs/blob/main/README.md)
+
+But when you get to the Clone Repo step use:
+
+```
+cd ~ && git clone -b main https://github.com/mads508/generative-ai-labs.git
+
+```
+
+If you see an error like the following, just re-run the command again until it works:
+```
+fatal: Unable to create '.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+```
+_Note:  Just re-run the command again until it works._

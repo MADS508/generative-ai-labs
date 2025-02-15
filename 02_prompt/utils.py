@@ -109,7 +109,7 @@ def safe_llama(query, add_inst=True,
   
 
 def code_llama(prompt, 
-          model="codellama/CodeLlama-34b-Instruct-hf", 
+          model="meta-llama/Llama-2-70b-hf", 
           temperature=0.0, 
           max_tokens=1024,
           verbose=False,
